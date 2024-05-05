@@ -1,0 +1,14 @@
+US-100,150;Springfield;Arizona
+US101,2000;Clarksburg;Abu Dhabi
+EG100,1500;Egypt;Greece
+GR100,500;Germany;France
+UK100,140;England;France
+UK101,900;England;Abu Dhabi
+UK103,800;England;Egypt
+BR100,400;Brazil;Spain
+SP100,600;Spain;France
+IN100,600;India;Pakistan
+NG100,1500;Nigeria;England
+AD100,700;Abu Dhabi;India
+SP101,700;Spain;Germany
+GR101,1100;Germany;India
